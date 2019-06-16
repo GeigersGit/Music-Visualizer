@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Visualizer Project.CSharp.Plugins", "Music Visualizer Project.CSharp.Plugins.csproj", "{74DBEAAD-2798-63AA-4047-2DDDE60A1720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Visualizer Project.CSharp", "Music Visualizer Project.CSharp.csproj", "{1E192EAF-BAF4-77CC-A636-9DA9F4DC9320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Visualizer Project.CSharp.Editor", "Music Visualizer Project.CSharp.Editor.csproj", "{B71C27B7-243D-3571-8865-3C2E8D803FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DBEAAD-2798-63AA-4047-2DDDE60A1720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DBEAAD-2798-63AA-4047-2DDDE60A1720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DBEAAD-2798-63AA-4047-2DDDE60A1720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DBEAAD-2798-63AA-4047-2DDDE60A1720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E192EAF-BAF4-77CC-A636-9DA9F4DC9320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E192EAF-BAF4-77CC-A636-9DA9F4DC9320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E192EAF-BAF4-77CC-A636-9DA9F4DC9320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E192EAF-BAF4-77CC-A636-9DA9F4DC9320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71C27B7-243D-3571-8865-3C2E8D803FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71C27B7-243D-3571-8865-3C2E8D803FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71C27B7-243D-3571-8865-3C2E8D803FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71C27B7-243D-3571-8865-3C2E8D803FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

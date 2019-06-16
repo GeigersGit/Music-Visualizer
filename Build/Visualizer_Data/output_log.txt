@@ -1,0 +1,49 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 25.21.14.1891]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 2560x1440 59Hz; virtual: 4480x1440 at -2560,-105
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Setting to default shader.
+UnloadTime: 2.083400 ms
+Platform assembly: D:\Media\Projects\Unity\Music Visualizer\Build\Visualizer_Data\Managed\Boo.Lang.dll (this message is harmless)
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.AudioClip].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at LoadMusic.playRandomMusic () [0x00000] in <filename unknown>:0 
+  at LoadMusic.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4444 -> priority: 1 
+  Thread -> id: 3c4c -> priority: 1 
+  Thread -> id: eec -> priority: 1 
+  Thread -> id: 4018 -> priority: 1 

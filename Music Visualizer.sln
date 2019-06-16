@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Visualizer", "Assembly-CSharp-firstpass.csproj", "{27B4DA47-55EE-4CEE-E653-A5606D6DEC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Visualizer", "Assembly-CSharp.csproj", "{3C5C5AEB-052E-016B-A6C6-F605AB1B4BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Visualizer", "Assembly-CSharp-Editor.csproj", "{7C9CECE8-BC35-E9FD-31AB-0909CED5B33D}"
+EndProject
+Project("{E2A2D30E-8670-A7E4-06E3-B22491DB3F7D}") = "Music Visualizer", "Assembly-UnityScript-firstpass.unityproj", "{6F4B0503-ED07-2171-2D7C-B26A979E12FA}"
+EndProject
+Project("{E2A2D30E-8670-A7E4-06E3-B22491DB3F7D}") = "Music Visualizer", "Assembly-UnityScript.unityproj", "{05B7BC30-9073-3764-C372-24B746F5E359}"
+EndProject
+Project("{E2A2D30E-8670-A7E4-06E3-B22491DB3F7D}") = "Music Visualizer", "Assembly-UnityScript-Editor.unityproj", "{EEC673D9-22D6-98A1-9EFA-8A5E33170510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B4DA47-55EE-4CEE-E653-A5606D6DEC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B4DA47-55EE-4CEE-E653-A5606D6DEC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B4DA47-55EE-4CEE-E653-A5606D6DEC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B4DA47-55EE-4CEE-E653-A5606D6DEC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5C5AEB-052E-016B-A6C6-F605AB1B4BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5C5AEB-052E-016B-A6C6-F605AB1B4BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5C5AEB-052E-016B-A6C6-F605AB1B4BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5C5AEB-052E-016B-A6C6-F605AB1B4BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9CECE8-BC35-E9FD-31AB-0909CED5B33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9CECE8-BC35-E9FD-31AB-0909CED5B33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9CECE8-BC35-E9FD-31AB-0909CED5B33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9CECE8-BC35-E9FD-31AB-0909CED5B33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4B0503-ED07-2171-2D7C-B26A979E12FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4B0503-ED07-2171-2D7C-B26A979E12FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4B0503-ED07-2171-2D7C-B26A979E12FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4B0503-ED07-2171-2D7C-B26A979E12FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B7BC30-9073-3764-C372-24B746F5E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B7BC30-9073-3764-C372-24B746F5E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B7BC30-9073-3764-C372-24B746F5E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B7BC30-9073-3764-C372-24B746F5E359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC673D9-22D6-98A1-9EFA-8A5E33170510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC673D9-22D6-98A1-9EFA-8A5E33170510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC673D9-22D6-98A1-9EFA-8A5E33170510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC673D9-22D6-98A1-9EFA-8A5E33170510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
